@@ -2,8 +2,8 @@ name: Update Blog JSON
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # každý den ve 3:00 ráno
-  workflow_dispatch:       # možnost spustit ručně
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -11,20 +11,20 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Install Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
 
-     - name: Install dependencies
-  run: |
-    npm install cheerio node-fetch
+      - name: Install dependencies
+        run: |
+          npm install cheerio node-fetch@2
 
-     - name: Run scraper
-  run: |
-    node scraper.js
+      - name: Run scraper
+        run: |
+          node scraper.js
 
       - name: Commit changes
         run: |
