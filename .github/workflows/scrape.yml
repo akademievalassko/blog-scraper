@@ -18,9 +18,13 @@ jobs:
         with:
           node-version: 18
 
-      - name: Run scraper
-        run: |
-          node scraper.js > data.json
+     - name: Install dependencies
+  run: |
+    npm install cheerio node-fetch
+
+     - name: Run scraper
+  run: |
+    node scraper.js
 
       - name: Commit changes
         run: |
