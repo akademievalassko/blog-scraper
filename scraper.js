@@ -21,7 +21,10 @@ async function scrape() {
     articles.push({ title, link, date, perex, image });
   });
 
-  fs.writeFileSync("data.json", JSON.stringify(articles, null, 2));
+  // JSONP output
+  const jsContent = `renderArticles(${JSON.stringify(articles, null, 2)});`;
+
+  fs.writeFileSync("data.js", jsContent);
 }
 
 scrape();
