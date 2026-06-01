@@ -33,3 +33,11 @@ jobs:
           git add data.js
           git commit -m "Automated update" || echo "No changes"
           git push
+
+  keepalive:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: liskin/gh-workflow-keepalive@v1
