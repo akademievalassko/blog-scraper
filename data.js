@@ -1,5 +1,33 @@
 renderArticles([
   {
+    "title": "Dětské atletické závody",
+    "link": "/l/detske-atleticke-zavody/",
+    "date": "28.05.2026",
+    "perex": "",
+    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005099-d1050d1051/WhatsApp%20Image%202026-08-16%20at%2017.53.49%20%282%29.jpeg?ph=f1aa68c021"
+  },
+  {
+    "title": "Workshop gymnastiky",
+    "link": "/l/workshop-gymnastiky-s-nikou-janovou/",
+    "date": "26.05.2026",
+    "perex": "",
+    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005089-dee56dee5a/WhatsApp%20Image%202026-08-15%20at%2007.55.40.jpeg?ph=f1aa68c021"
+  },
+  {
+    "title": "Fitbox a workshop s Vadimem",
+    "link": "/l/fitbox-a-workshop-s-vadimem/",
+    "date": "26.04.2026",
+    "perex": "",
+    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005083-f0233f0235/WhatsApp%20Image%202026-08-15%20at%2007.53.29%20%282%29.jpeg?ph=f1aa68c021"
+  },
+  {
+    "title": "Sport v každém věku",
+    "link": "/l/sport-v-kazdem-veku/",
+    "date": "21.04.2026",
+    "perex": "",
+    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005063-146491464b/P%C5%99edn%C3%A1%C5%A1ka.jpeg?ph=f1aa68c021"
+  },
+  {
     "title": "Valašská činka 2026: Amatérská soutěž přinesla sportovní výzvu i inspiraci",
     "link": "/l/valasska-cinka-2026-amaterska-soutez-prinesla-sportovni-vyzvu-i-inspiraci/",
     "date": "28.03.2026",
@@ -47,33 +75,5 @@ renderArticles([
     "date": "25.09.2025",
     "perex": "Český svaz karate přišel s novou výzvou. Soutěž Karate Agility Challenge napříč všemi věkovými kategoriemi otevřená pro všechny členské kluby.",
     "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200004741-a35e9a35ec/IMG_20250925_170942-3.jpeg?ph=f1aa68c021"
-  },
-  {
-    "title": "Náborová akce: Příměstský karate tábor 2025",
-    "link": "/l/naborova-akce-primestsky-karate-tabor-2025/",
-    "date": "22.08.2025",
-    "perex": "Pravidelně na konci letních prázdnin třetí týden v srpnu pořádáme příměstský karate tábor. Jedná se o oblíbenou náborovou akci a příležitost pro nováčky a zájemce, vyzkoušet si, jaké by to bylo: \"Chodit do karate!\".",
-    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200004697-79ae479b3f/IMG_20250821_122524-2.jpeg?ph=f1aa68c021"
-  },
-  {
-    "title": "2. kolo soutěže Valašský pohár talentů BEGINNER CUP 2025",
-    "link": "/l/2-kolo-souteze-valassky-pohar-talentu-beginner-cup-2025/",
-    "date": "14.06.2025",
-    "perex": "V sobotu 14. 6. k nám opět zavítala se svým týmem rozhodčích Mgr. Veronika Mišková, trenérka a úspěšná reprezentantka ČR. Pod jejím vedením proběhla avizovaná soutěž podpořená účastí také rodičů a přátel naší karate komunity. V rámci rušné části proběhlo krátké soustředění zaměřené na soutěžní provedení kata GSD1. Děkujeme.",
-    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200004653-e1aa0e1aa2/IMG_20250614_093021-8.jpeg?ph=f1aa68c021"
-  },
-  {
-    "title": "Video-pozdrav rodičům na závěr šk. roku 2024/2025, sestřih gymnastika",
-    "link": "/l/video-pozdrav-rodicum-na-zaver-sk-roku-2024-2025-sestrih-gymnastika/",
-    "date": "26.05.2025",
-    "perex": "Srdečně děkujeme všem za účast a píli, rodičům samozřejmě také za podporu. Kroužek gymnastika přípravka a gymnastika pokročilí otevřeme také v příštím školním roce 2025/2026. Nábor poběží srpen-září, termín nepropásněte!",
-    "image": "https://img.youtube.com/vi/MfZ99DaJmlM/hqdefault.jpg"
-  },
-  {
-    "title": "Národní pohár Karate Goju Ryu 2025, 3. kolo v Prostějově",
-    "link": "/l/narodni-pohar-karate-goju-ryu-2025-3-kolo-v-prostejove/",
-    "date": "26.04.2025",
-    "perex": "Krásný příklad toho, jak kloboucké karate pomáhá vychovávat naše děti, COUFAL Jakub, 1. místo Kata Beginner 7-9 let, Národní pohár Českého svazu Karate goju ryu, dne 26. 4. 2025 v Prostějově. Děkujeme.",
-    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200004609-b48e0b48e2/IMG_20250428_121929.jpeg?ph=f1aa68c021"
   }
 ]);
