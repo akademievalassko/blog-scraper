@@ -1,30 +1,44 @@
 renderArticles([
   {
+    "title": "Letní karate tábor a zkoušky",
+    "link": "/l/letni-karate-tabor-a-zkousky/",
+    "date": "21.08.2026",
+    "perex": "Letní karate soustředění a příměstský tábor 2026",
+    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005107-acc67acc69/WhatsApp%20Image%202026-09-02%20at%2011.16.19.jpeg?ph=f1aa68c021"
+  },
+  {
+    "title": "Atleticko-gymnastický příměstský tábor",
+    "link": "/l/atleticko-gymnasticky-primestsky-tabor-valasske-klobouky/",
+    "date": "24.07.2026",
+    "perex": "Atleticko-gymnastický příměstský tábor Valašské Klobouky",
+    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005089-dee56dee5a/WhatsApp%20Image%202026-08-15%20at%2007.55.40.jpeg?ph=f1aa68c021"
+  },
+  {
     "title": "Dětské atletické závody",
     "link": "/l/detske-atleticke-zavody/",
     "date": "28.05.2026",
-    "perex": "",
+    "perex": "Atletické závody dětí – otevřená soutěž",
     "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005099-d1050d1051/WhatsApp%20Image%202026-08-16%20at%2017.53.49%20%282%29.jpeg?ph=f1aa68c021"
   },
   {
     "title": "Workshop gymnastiky",
     "link": "/l/workshop-gymnastiky-s-nikou-janovou/",
     "date": "26.05.2026",
-    "perex": "",
-    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005089-dee56dee5a/WhatsApp%20Image%202026-08-15%20at%2007.55.40.jpeg?ph=f1aa68c021"
+    "perex": "Workshop gymnastiky s Mgr. Nikou Jáňovou",
+    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005103-bfb27bfb29/WhatsApp%20Image%202026-09-10%20at%2010.28.11.jpeg?ph=f1aa68c021"
   },
   {
     "title": "Fitbox a workshop s Vadimem",
     "link": "/l/fitbox-a-workshop-s-vadimem/",
     "date": "26.04.2026",
-    "perex": "",
+    "perex": "Dne 26. 4. 2026 proběhla v Centru zdravého pohybu akce Fitbox a workshop pro mládež s Vadime Zharovem. Dopolední část byla otevřena široké veřejnosti, kde si hosté mohli vyzkoušet dynamické lekce fitboxu zaměřené na zlepšení kondice, koordinace a celkové fyzické zdatnosti. Účastníci ocenili přátelskou atmosféru, jasné vedení a možnost přizpůsobit...",
     "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005083-f0233f0235/WhatsApp%20Image%202026-08-15%20at%2007.53.29%20%282%29.jpeg?ph=f1aa68c021"
   },
   {
     "title": "Sport v každém věku",
     "link": "/l/sport-v-kazdem-veku/",
     "date": "21.04.2026",
-    "perex": "",
+    "perex": "Pozvali jsme Mgr. Petru Burešovou na inspirativní přednášku zaměřenou na tři klíčová témata: sport dětí, sport a ženy a sport po 50. roce života. Dozvěděli jsme se, jak bezpečně vést děti ke sportu, jak podpořit zdravé sebevědomí dívek a jak přizpůsobit trénink ženskému tělu v různých životních etapách. Součástí je také praktický pohled na pohyb po...",
     "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005063-146491464b/P%C5%99edn%C3%A1%C5%A1ka.jpeg?ph=f1aa68c021"
   },
   {
@@ -61,19 +75,5 @@ renderArticles([
     "date": "02.01.2026",
     "perex": "Na závěr roku jsme se zapojili disciplínou Karate Agility Challange do soutěže Vánoční Beginner Cup OGKK 2025. Účastnilo se 6 našich mladých závodníků. Pro ostatní jsme připravili motivační pohybové aktivity. Děkujeme všem za účast a užijte si videosestřih nejzajímavějších momentů.",
     "image": "https://img.youtube.com/vi/65DF0RpRI9c/hqdefault.jpg"
-  },
-  {
-    "title": "2. kolo Kata Beginner Cup 2025",
-    "link": "/l/2-kolo-kata-beginner-cup-2025/",
-    "date": "09.10.2025",
-    "perex": "Letošní druhé kolo soutěže Valašský Kata Beginner Cup 2025 bylo opět naplněné odpoledne. Soutěžící se po společné rozcvičce rozdělili do dvou disciplín, Kihon Ido a Kata. Tradičně prvá byla nejpočetnější. Při těchto příležitostech však mají začátečníci příležitost od zkušenějších leccos odpozorovat. Důležitou roli ve výchově přitom hraje také...",
-    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200004743-b2a0ab2a0c/IMG_20251009_163448.jpeg?ph=f1aa68c021"
-  },
-  {
-    "title": "Karate Agility Challenge",
-    "link": "/l/karate-agility-challenge/",
-    "date": "25.09.2025",
-    "perex": "Český svaz karate přišel s novou výzvou. Soutěž Karate Agility Challenge napříč všemi věkovými kategoriemi otevřená pro všechny členské kluby.",
-    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200004741-a35e9a35ec/IMG_20250925_170942-3.jpeg?ph=f1aa68c021"
   }
 ]);
