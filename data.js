@@ -1,5 +1,12 @@
 renderArticles([
   {
+    "title": "Podzimní soustředění karate",
+    "link": "/l/podzimni-soustredeni-karate/",
+    "date": "08.11.2026",
+    "perex": "V rámci konceptu rozvoje sportu ve městě byla z programu Spolupráce podpořena také tato spolková akce. Podzimní soustředění karate vedla reprezentační trenérka Veronika Mišková a nabídlo účastníkům příležitost rozvíjet techniku, soustředění i soutěžní připravenost.",
+    "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005135-2d6a02d6a2/IMG_20261108_110548.jpeg?ph=f1aa68c021"
+  },
+  {
     "title": "Letní karate tábor a zkoušky",
     "link": "/l/letni-karate-tabor-a-zkousky/",
     "date": "21.08.2026",
@@ -68,12 +75,5 @@ renderArticles([
     "date": "28.02.2026",
     "perex": "Soustředění předcházelo hostování 24. 2. v Kroměříži, kde se našemu nadějnému želízku v ohni, závodník Jan Coufal, a jeho kouči a trenérovi, Miroslav Coufal, věnovala mnohonásobná mistryně ČR a medailistka z mezinárodních soutěží Ivana Laštůvková.",
     "image": "https://f1aa68c021.clvaw-cdnwnd.com/59f4afd9597b7b1f23b143985a8ce531/200005021-9ee519ee54/IMG_20260315_075204.jpeg?ph=f1aa68c021"
-  },
-  {
-    "title": "Vánoční Beginner Cup",
-    "link": "/l/vanocni-beginner-cup/",
-    "date": "02.01.2026",
-    "perex": "Na závěr roku jsme se zapojili disciplínou Karate Agility Challange do soutěže Vánoční Beginner Cup OGKK 2025. Účastnilo se 6 našich mladých závodníků. Pro ostatní jsme připravili motivační pohybové aktivity. Děkujeme všem za účast a užijte si videosestřih nejzajímavějších momentů.",
-    "image": "https://img.youtube.com/vi/65DF0RpRI9c/hqdefault.jpg"
   }
 ]);
